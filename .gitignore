@@ -28,6 +28,7 @@ supabase/.temp/
 .lovable/
 .agents/skills/
 docs/
+scripts/
 
 # Wrangler / Cloudflare
 .wrangler/
