@@ -24,6 +24,11 @@ supabase/.env.functions
 supabase/.temp/
 .deploy-*.json
 
+# Local-only folders (not tracked in git)
+.lovable/
+.agents/skills/
+docs/
+
 # Wrangler / Cloudflare
 .wrangler/
 .dev.vars
